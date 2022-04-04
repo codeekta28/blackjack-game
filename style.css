@@ -1,0 +1,32 @@
+.row-1{
+    background: url(img/background.jpg)center;
+    color: #ffffff;
+    overflow: hidden;
+}
+.row-1 div{
+    border: 2px solid black;
+    padding: 10px;
+    min-height: 350px;
+    text-align: center;
+    flex: 1;
+}
+.row-1 img{
+    width: 25%;
+    padding: 10px;
+}
+.row-2{
+    background:url(img/background.jpg)center;
+}
+.row-2 div{
+    border: 2px solid black;
+    padding: 10px;
+}
+.row-2 div button{
+    border: 2px solid black;
+
+}
+table,th,td{
+    border: 2px solid black;
+    padding: 10px;
+
+}
